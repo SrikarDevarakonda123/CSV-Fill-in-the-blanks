@@ -1,0 +1,497 @@
+Pillar,Initiatives/Project,Customer/Business Problem Statement,MLP / Parity / Differentiation,KPIs/OKRs,"Priority 
+(A, B, C)","Incept/Build in Quarter
+(Q2/Q3/Q4)","Desired Launch
+ Quarter
+(Q2/Q3/Q4)","Inception Ready?
+(Y/N)",Driving Team,Dependent Team,Overall Initaitive Sizing (Q3/Q4),Martech,Communications,UX,AdTech,CPG Media,Traffic Innovation (Project X),PZN,ShopCX- INTERNAL USE ONLY,ShopCX - UI Platform,ShopCX- Pharmacy,ShopCX- Land & Nav,ShopCX - Unified Search,ShopCX-Search&Browse,Exp & Opt (Target),Cart & Checkout,UMA,Tax,Catalog,UX.1,UCA,"
+DigitalLabs",EPE,Offer Management,Offer Redemption,Payments,Omnichannel,Digital Order Management System (DOMS),MFC,Acupick,Transportation Services,Pickup Experience,VPOS,Demand Planning,Store Mobility,OSS,Subscription,Rewards,Auto Replenishment,J4U_Clipping/Instant Allocation,Partnership Rewards,"Customer Self Service (Web/Mobile)- (IVR, Chat, social media)",CS Analytics,ECHO,CRM Salesforce,Digital Trust & safety,Functional FAQs,Data Engineering,CDP,Analytics,Data Science,Retail / POS,Unnamed: 64,Unnamed: 65,Unnamed: 66,Unnamed: 67,Unnamed: 68,Unnamed: 69,Unnamed: 70,Unnamed: 71,Unnamed: 72,Unnamed: 73,Unnamed: 74,Unnamed: 75,Unnamed: 76,Unnamed: 77,Unnamed: 78,Unnamed: 79,Unnamed: 80
+,,,,,,,,,,,,Marketing,,,,,,,,,,,,,,,,,,,,,Merchandising,,,Payments,,Fulfillment,,,,,,,,,Loyalty,,,,,Customer Service,,,,,,Data,,,,Retail,Other,,,,,,,,,,,,,,,,
+Shopper Experience,"Scan + Pay // Store of the Future: Scan and pay is an app that our Just4u customers use to scan items as they shop, pay and skip the checkout line in the mobile app. Pilot is live in 11 stores, 4 of which (Norcal) are live to customers.","Scan and pay will give the ability to fully engage the customer, improve the customer experience, simplify their shopping journey, reduce contact in times of covid and pull this work into broader loyalty redesign strategy, bringing new features to our loyal members and give customers a new quick stop meal solution",Differentiation,"Customer experience score (CSAT)
+Number of members registered
+Number of first-time transactions from members
+Repeat transactions from members (retention)
+Average Scan & Pay customer journey time
+App error rate
+AOV and AIV 
+Shrink",A,Q1-Q4, TBD: UMA Integration  Launch ,,Digital Labs,,XL,XS,XS,,,,,,,,,,,,,,X,,,XS,,,XS,,,XS,XL,,,,,,,,,,,,,,,,,,,,,,,S,,S,,,,,,,,,,,,,,,,,
+Shopper Experience,Walk In Walk Out // Store of the Future: New store format offering fresh meals and grocery essentials using technology ,"I want to run to the store, grab a quick meal and possibly a few essentials but I don’t want to have to wait in line or go to a huge store. ",Differentiation,"AOV, Incremental Customers, Avg Order Value, Accuarcy, others TBD",A,Q2,Q3/Q4,N,Digital Labs,,L,XS,XS,,,,,,,,,,,,,,,,,TBD,,,,,,S,L,,,,,,,,,,,,,,,,,,,,,,,S,,S,,,,,,,,,,,,,,,,,
+Shopper Experience,Location Services // Store of the Future: Piloting Product Search and Wayfinding. By understanding where the customer is in the store to serve information on items or products relevant to them in their shopping list on a moving map with pick path,"I love shopping for groceries large or small trips, but I hate that the items are located in different places, I don't know where to find a unique item or what it looks like and often leave with out it!",Differentiation,,A,Q3 or Q4,Pilot Launch - Q1/Q2. UMA Launch Q3/Q4,N,Digital Labs,,XL,XS,XS,,,,,,,,,,,,,,X,,,S,,X,,,,S,M,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Freeosk // An in-store kiosk that offers customers free samples of products that are aimed at accelerating product and category discovery, influence new behaviors/purchases, and increase JFU signups.",We know sampling drives incremental sales and we're looking for new opportunities to drive additional in-store revenue via CPG advertising. In addition with the start of the pandemic customers need a contactless sampling option.,Differentiation,"User engagement
+Incremental sales
+Re-usage rates
+JFU registrations",C,Q2-Q3,Q2-Q3,Y,Digital Labs,,XL,M,S,,,x,,,,,,,,,,,,,,TBD,,X,,,,,,,,,,,,x,,x,,XS,,,,,,,,,,L,,M,,x,,,,,,,,,,,,,,,,,
+Shopper Experience,"In-Store Mobile Congierge // Store of the Future: In-store scanning solution that will answer questions customers have while shopping; including how in season is the product, where it's sourced from, recipes, health information,  current promotions, and in store specialty ordering. ","I want a more intimate and personalized digital experience with my local store. Depending on experience I’m craving that day, I want to be able to find information or inspiration without having to talk to an associate or fumbling through multiple apps on my phone. I wish had a digital assistant to help me unlock the nuances of my store and its products.
+",Differentiation,"User engagement
+Incremental sales
+Re-usage rates
+Mobile app installs",A,TBD: Q4,TBD: Pilot Launch: Q2/3 2022,N,Digital Labs,,XL,,X,,,x,,,,,,,,,,,X,,x,x,,X,,,,x,X,,,,,,,,,x,,XS,,XS,,x,,,,,x,L,,M,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"eCommunity // Albertsons' e-community is a platform welcoming all food lovers to seek inspiration, ask questions, join discussions, explore all things health, participate in events, share experiences, and create connections with those that share similar interests as well as with the Albertsons' family.","Food and cooking can take on many roles in a person's life. It can bring joy, bring loved ones together, be a way to express your creativity, an escape, a challenge, a chore, or something intimidating. Whatever it may be, the journey begins in the store. That in-store experience is grounded in choice – how you choose to shop, whether it be about speed, or you enjoy browsing each aisle. It can be a social experience bonding with those behind the counters or a more introverted journey. On the other end, online is grounded in convenience but ultimately lacks the personal element and is more challenging to discover or become inspired. Albertsons' e-community is an extension of both in store and online that improves your experience and journey of choice. The platform can take on many forms: a way to generate your own content, browse others for inspiration, and create lasting connections.",Differentiation,,A,Q3,Q4- Pilot,N,Digital Labs,,XL,X,X,,x,,,,,,,,,,,,X,,L,x,,X,,,,,,,,,,,,,,,,,,,,x,,,,,x,L,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Bloom Cart by Safeway // Offer a unique/premium/on trend collection of hand-tied floral arrangements that can be delivered within 2 hours. The collection is aimed at customers who don't view ABS as a floral solutionin and result in new customer acquisition,I love having fresh flowers in my home but find myself strapped for time to make this a priority. I wish there was a stylish and reliable solution.,,,C,Q3,Q4,,Digital Labs,,M,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Food Trucks // Bring local & regional meal expansion via food trucks to our customers thoughout various business models inluding: food truck  events in our store parking lots, and connecting DuG and Delivery customers to food trucks near them. ","“I love to order from FOOD LOT while placing my grocery order on Albertsons App,” says Albertsons customer Christie Fullbelly.  “I schedule my pick-up time just prior to dinner so that I have a hot, ready to eat meal delivered to my car with my groceries, ready to be brought home to my family of hungry eaters! Each week we look forward to trying something new and exciting from FOOD LOT as well as ordering from our new favorites.  Some weekends, I’ll order dinner from FOOD LOT and wine from the grocery store, a full meal!”",Differentiation,"AOV, Engagement, Incremental Customers, Repeat Customers",C,"Phase 1: Q2, Phase 2: Q3","Phase 1: Q2, 
+Phase 2: Q4",N,Digital Labs,,S- Phase 1 (Q2),S,S,,X,,X,,X,XS,,L,,,S,X,S,,,X,,X,X,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Healthy Shopping Assistant // Healthy shopping assistant pilot will	validate that ACI shoppers want to setup health/dietary/ingredient avoidance user profile and leverage those TAGs in their shopping experience online. Specifically on product detail pages and search.,"I am a busy, health focused customer looking for ways to shop for foods that help to manage or improve X condition in my life, but I don't want to spend additional time researching foods and my conditions. Please help make healthy shopping easy!",Differentiation,"Clickthrough Shopper Assistant Banner
+Completing Selection of Healthy Tags (fall off rate for each step)
+Visit Healthy Product Results Page
+Visit A Healthy Product Detail Page
+Healthy Item(s) Added to Cart
+Comparison of conversion rate of adding items to your cart directly from existing search vs. healthy shopper product results page
+Comparison of conversion rate from adding items to cart from the product detail page vs. healthy shopper version",B,Q2,Q2-Q3,Y,Digital Labs,,L,xs,xs,,,,,,X,S,,L,,M,,,X,,S,S,x,Xs,,,,,,,,,,,,,,,,,,,,,,,,,,L,,S,L,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Project Menu // New & Improved Digital Features on UMA and web:
+
+Recipe Search - Browse recipes & meals using search and filter tools (calories per serving, $ cost per serving, total cook time)","Understanding life is not predictable, Albertsons Digital Meal Solutions mission aims to remove the stress of meal planning for the week by providing our shoppers the tools needed to find last-minute meal solutions (recipes & prepared meals), easily create and organize weekly meal plans, create shopping lists and discover new recipes that inspire them and fit their dietary lifestyles and tastes. Our goal is to become everything food for our customers. 
+
+Cooking 4-5 nights per week, our customers are looking for a variety of tasty, healthy, and budget-friendly meals and recipes to add to their rotation of family favorites.  But it needs to be easy, and customers prefer not to go to the grocery store more than once or twice a week.  They are tired of cooking the same meals each week and are looking to be inspired with new, easy-to-cook recipes to add to their weekly plan. Some nights they do not want to cook at all and are looking for quick, delicious, ready-to-heat and ready-to-eat options. 
+
+We will remove the stress of meal planning for the week by providing our shoppers the tools needed to find last-minute meal solutions (recipes & prepared meals), easily create and organize weekly meal plans, create shopping lists and discover new recipes that inspire them and fit their dietary lifestyles and taste preferences.",Differentiation,"Engagement, AOV, Increase in Cart Size, Repeat Customers",A,Q2,Q3,,Digital Labs,,XL,s,s,,,,,X,,L,,,,,,x,M,,L,L,X,L,,,,,,,,,,,,,,,XS,XS,,,x,XS,,,,,x,L,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"3PL Tax/Payment API // This service will be initially piloted with Uber to enable automated tax exemption at the register, and give them an option to pay using a QR code. This solution will be rolled out nationally with Uber and Doordash.","When Doordash, Uber and Instacart shoppers reach the register, there is a manual step process required to mark the transaction as tax exempt. Since this is a manual process, it is often overlooked or pushed back on by the cashier. In addition we are charged credit card processing fees for all the transactions that they ring up. We need an easy scanable solution to providing automated tax exemption for the transaction & a quick payment method with zero processing fees.",MLP,"Reduced tax reconciliation, Reduced transaction fees for CC",A,Q2,Q2,Y,Digital Labs,,M,,,,,,,,,,,,,,,,,,,,,x,,,,S,S,,,,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,
+Shopper Experience,"Digital Screens // Use digital screens across the store to be able to: reduce the cost of print media, drive additional product sales through increased awareness of promotions and inspirational meal ideas.","TBD - still working on strategy / how we will use (ie Décor, Advertising, etc) ",TBD,"Incremental Sales, NPS, CSAT",B,Q4,Q4,N,Digital Labs,,,XS,,,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Store of the Future // Store of the Future a cross functional project that includes various digital products (outlined seperately) and will include new store / shopping concepts/ The vision is to drive disruptive innovation focused to driving great customers experiences. We have outlined seperately all the projects that will impact Q2 and will refresh once we know more about future pilots.,"Addresses various customer problems as this is a large crossfunctional program with many sub projects focused on different customer needs / problems.
+",MLP/Parity/Differentiator,Various,A,Q3 or Q4,Q4,N,Digital Labs,,XL,X,X,,,,,,,,,,,,,,,,,,,X,,,,,X,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Wine Club // Quickly launch Wine Club on Shopify platform, featuring Safeway Store 1257's (Livermore) large catalog assortment.  This will be a test & learn project with the goal to add inventory from other stores throughout the state.  
+Build concept around the personal touch and personalities of our beverage stewards. Beverage stewards will help curate collections and mixed cases, choose and promote their favorites, and offer recommendations via live-chat on the site. 
+Create SOPs for catalog management, merchandising, and fulfillment.","I love my local Safeway’s wine team. Whenever I need a recommendation on a wine or beer to pair with a new recipe or restaurant take-out, or even just an introduction to something new, my local Safeway beverage team has me covered.  At times I feel I’ve exhausted the inventory featured at my local store and wish I had access to more variety to discover.  ",,"Engagement, Repeat Customers",C,Q4,Q4,N,Digital Labs,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Transactions/Redesign Date/Time Selection (Pre-book, Checkout/Edit) // Redesign of Checkout/Edit:
+Redesign Date/Time Selection (Pre-book, Checkout/Edit)",Provide customers with more convenient and efficient date/time selection options for delivery/pickup ,Parity,a)Reduce time to checkout. b)Reduce drop rate on date/time by 2-3%,A,Q2,Q2,Y,C&C,,,xs,xs,,,,,,X,,,S,,XS,,M,XS,,,M,,,,,,,,S,,,,,,S,,X,,,,,,X,,S,,,XS,S,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Transactions/One-Click checkout // One-Click Checkout with Stored CC ,Around 8% of customer drops at promo & payment selection . One-Click checkout with stored  payment information will fasten up the checkout process for customers.,Parity,b) Reduce drop rate on date/time selection by 2-3%,A,Q3,Q3,N,C&C,,L,,,,,,,,,,,,,,,M,X,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Transactions/Optimize order edit // Optimize order edit (i.e. Multiple day window vs. same day for future order),We do not support order edit for multiple days window curomer can only edit the order on the day order is placed. By extending order edit by multiple days window customers will have more flexibility to add item to the cart or reschedule orders ,Parity,"*Increase incremental revenue by $10M/year 
+*Increase AOV by $2",B,Q3,Q3,N,C&C,,L,X,X,,,,,,,,,S,,,,S,X,,,X,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Transactions/Gift Capability // Send delivery order as gift capability,Customer today can not add personal note to order that is sent as gift to friend or family ,Parity,"Increase customer sales, satisfaction  & LTV",C,Q4,Q4,N,C&C,,M,X,X,,,,,,,,,,,,,X,,,,,X,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Transactions/ Singular Cart Experience // Redesign Singular Cart, which will ultimately support multi-cart and marketplace.Driven by Cart and Checkout we are looking for best in class singular cart (moving away from 2 carts mini and full to just 1 cart) experience whilst supporting future initiatives like muticart (MTO and grocery items) and Marketplace (items that can be shipped from 3rd party vendors) so we effectively communicate customers how their order will be divided. Also, build on singular cart recommendation in cart using shopping history, delas etc","Less than 1% of customers interact with Full cart and directly go to checkout from Mini cart, the effort of dev and maintainence needed is not justified and the real estate on Mini cart is not enough to support many upcoming initiatives especially around multi- cart. to support and streamline we would like to approach singular cart experience",Parity ,"AOV Increase, reduce dev cost ",A,Q2,Q2,N,C&C,,,XS,XS,,,,,,,,,,,M,S,L,S,,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Transactions/ Grocery and Pharmacy integration  // Ecom Order with RX Integration,More than 80% of our customers are not aware of our pharmacy services.,Parity ,Increase Pharmacy awareness and script acquisition (MLP),A,Q2,Q2,Y,"C&C/
+Pharmacy",,,XS,XS,,,,,,,,XL,,,,S,L,S,,,L,x,,,,,,,S,,X,,X,,,,S,,,,,,,,S,,,S,L,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Feedback. Customer feedback survey in email,"As a customer, I want to give my opinion on delivered orders so that I have a better experience next time. As a company, we want feedback from customer so we may improve the orders/substitutions experience",Parity,,A,Q1,Q1,Y,C&C,,,XS,XS,,,,,,,,,,,,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Feedback. Change to apptentive survey on app,"As a customer, I want to give my opinion on delivered orders so that I have a better experience next time. As a company, we want feedback from customer so we may improve the orders/substitutions experience",Parity,,A,Q1,Q1,Y,C&C,,,,,,,,,,,,,,,,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Substitutions // Tracking FaR accuracy to capture the event and pass to EDM, ECHO",As a customer... (customer benefit),Parity,"In 2021, Reduce customer support refunds and complaints  by 50%. 
+Decrease OOS cancellations by 25%. 
+Decrease substitutes when customer said DoNotSub by 50%.",A,Q2,Q2,Y,C&C,, ,,,,,,,,,,,,,xs,,,S,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Customer can choose qty of substitutes on Web (parity with UMA),"As a customer, I want my past preferences be taken into account so that my substitutions are relevant. As a company, the more customer feedback and analytics data we can ingest, the more relevant the substitutions.  ",Parity,"In 2021, Reduce customer support refunds and complaints  by 50%. 
+Decrease OOS cancellations by 25%. 
+Decrease substitutes when customer said DoNotSub by 50%.",A,Q2,Q2,Y,C&C,,,,,,,,,,X,,,,,S,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,,,L,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Show additional substitutes to picker in case the substitute is unavailable,"As a customer, I want to specifcy how many of teh substitutes I want.",Parity,"In 2021, Reduce customer support refunds and complaints  by 50%. 
+Decrease OOS cancellations by 25%. 
+Decrease substitutes when customer said DoNotSub by 50%.",A,Q2,Q2,Y,C&C,,,,,,,,,,X,,,,,S,,S,,,,,,,,,,,,S,,"Is this Smart Sub phase2?
+Need more details",,,,,,,,,,,,,,X,,,,,,S,S,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Shopper Chat discovery and implementation. Picker will contact customer if chosen subs is not available.  ,"As a picker, I want to see more substitution choices to pick in case the substitute is OOS. As a company, this helps decrease OOS cancellations. ",Parity,Decrease OOS cancellations by 5%,B,Q2,Q2,Y,C&C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,S,,,,,,,,,,,,,,,,,,L,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Save customers past subs selection to recommend items in future. This improves relevancy and saves time. Let customer choose qty of substitute in web. Improvements to UX for subs based on customer feedback and analytics,"As a customer, I want to be alerted when there is a change to my substitutes. As a customer, we want the customers input when an exception happens, so that me can get customers preference and keep them informed.  ",Parity,"In 2021, Reduce customer support refunds and complaints  by 25%. 
+Decrease OOS cancellations by 10%.",A,Q3,Q4,Y,C&C,,L,XS,XS,,,,,,X,,,,,,,,,,,L,,,,,,,,S, ,"XL (As per Sharath, AcuPick is driving team)",,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // Screens for merchandising team to boost subs results to increase relevancy and revenue,"As a customer, I want my past preferences be taken into account so that my substitutions are relevant. As a company, the more customer feedback and analytics data we can ingest, the more relevant the substitutions.  ",Parity,"In 2021, Reduce customer support refunds and complaints  by 25%. 
+Decrease OOS cancellations by 10%.",A,Q3,Q3,Y,C&C,,,,,,,,,,X,,,,,x,,,M,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,X,S,X,,,,,,,,,,,,,,,,,,
+Shopper Experience,Substitutions // IVR changes for subs,"As a merchandizer, I want to boost certain items so that customers can get a more relevant product. As an org, we want to make substitutes more relevant and promote our own brands. ",Parity,,C,Q3,Q4,,C&C,,,,,,,,,,,,,,,,,,,,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,S,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Substitutions // • Capture 9 digit zip code of delivery address
+• Integrate tax engine to calculate tax and fees at time of fulfillment
+• Refunds","As a customer, I want the IVR system to be aware of my subs choices, so that my calls are handled better,. ",Parity,,C,Q3,Q3,,C&C,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Taxation - Phase 2 // • Integrate tax engine to calculate tax and fees on Retail POS
+• Refunds ",Taxes and Fees are not accurately being determined today thus making us suspectible to being charged penalties and interest when we are audited.,Parity,"Compliance - Decrease taxes, penalties and interest by 20%",A,Q2/Q3,Q3,N,Taxation,,,XS,XS,, , , , , , , , , , , ,"XS - Pass 9 digit zip to tax
+
+X - Pricing Service -  will call tax engine at Fulfillment to get tax and fee details",S, , ,NA -- Receipt changes no UI needed for 9 digit zip,M, ,X , , ,S, ,S,X, , , ,X ,Continue to use 5 digit zip, ,?, , ,"X- If cart and checkout is handling taxes, there is nothijng additional that AR team needs to build", , ,S,,X, ,, , , ,XS, , , ,,,,,,,,,,,,,,,,
+Shopper Experience,"Taxation - Phase 3 // • Customers request tax exemption by filling out appropriate documentation
+• Certificates will be reviewed and approved
+• TBD if tax exemption is controlled at order level or account level.
+• Orders will be identified as tax exempt so the appropriate tax will be determined during fulfillment
+• Refunds will support  tax exempt orders",Taxes and Fees are not accurately being determined today thus making us suspectible to being charged penalties and interest when we are audited.,Parity,"Compliance - Decrease taxes, penalties and interest by 20%",A,Q4,"Q1 (pilot)
+Q2 (rollout)",N,Taxation,,, , ,, , , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , , , , , ,, , ,, , , , , ,X, ,,,,,,,,,,,,,,,,
+Shopper Experience,Taxation Exemption Certificates (online) // Enable Passwordless Experience across all platforms to enable contemporary and frictionless capabilities to enable customers to start shopping,We do not support Tax Exemptions online. We have an opportunity to allow Tax Exempt customers to place orders like our competitors. ,Parity,Drive Growth - Increase brand new customers,B,Q4/Q1 2022,Q2 (pilot/rollout),N,Taxation,,,XS,XS,, , , , , , , , , , , ,X ,X, , ,X,X, ,XS, , ,X, ,M,X, , , ,X, , ,?,?, ,"X- If cart and checkout is handling taxes, there is nothijng additional that AR team needs to build", , ,S,,X, ,,X, , ,XS, , , ,,,,,,,,,,,,,,,,
+Shopper Experience,"Identity - Passwordless Sign in Experience for Web // New Registration flow for web using OTP
+Minimal customer input during sign up
+Progressive profiling","Remove the need for customers to create and remember a password, improving the experience will lead to better retention.",Differentiation,"Elevating Our Design & Voice 
+Higher customer activity",A,Q2,Q2,Y,UCA,,,,,,,,,,,,,,,,,,,,,XS,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Identity - OTP based Web Registration and progressive profiling // Build and manage diateraty prerences and restrictions in the new preference center
+Make the the preference data avalable for CDP to consume for UMA personalization ","Reduce the steps for customers to create an account or sign in, improving the experience will lead to more acquisition",Differentiation,"Elevating Our Design & Voice 
+Higher customer conversion",A,Q2,Q2,Y,UCA,,,,,,,,,,X,M,,M,,,,S,,,,M,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Dietary preference for UMA // Build Social Sign in capabilty for mobile apps (UMA)
+Apple Sign in for iOS
+Google Sign in for Android","Creates more personalization capabilities and helps the customer shop faster, as we're curating their experience towards their dietary needs",Parity ,Tailored Mobile App Experience,A,Q2,Q2,Y,Personalization,,,,,,,,,x,,,,,,,,,X,,,M,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Social Sign in for UMA // Build Social Sign in capabilty for Website,Help customers QUICKLY get into UMA with a single tap,Differentiation,"Tailored Mobile App Experience
+Elevating Our Design & Voice ",A,Q2,Q2- Q3,N,UCA / UMA,,,,,,,,,,,,,,,,,,X,,,M,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Social Sign in for Web // Disaster Recovery for UCA Services includes HD Insight Upgrade,Help customers QUICKLY get into the web with a single tap,Differentiation,"Elevating Our Design & Voice 
+Higher customer conversion",B,Q3,Q3,N,UCA,,,,,,,,,,,,,,,,,,,,,M,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Disaster Recovery for UCA  //  Github (Code Repo) Migration - Split and Creating New Pipe line,,Parity,,A,Q1,Q2,Y,UCA,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Github (Code Repo) Migration // Event hub to Confluent Kafka Migration,,Parity,,B,Q1,Q2,Y,UCA,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Event hub to Confluent Kafka Migration // Decommission of EMLSE/EMDB , ESCS3/CHAMP",,Parity,,A,Q2,Q3,Y,UCA,,,,,,,,,,,,,,,,,,,,,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Retire Legacy CHAMP and EMCL // Moving to Azure Kubernetes Service,,Parity,,A,Q2,Q4,Y,UCA,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Azure VMs to AKS // Modify email-marketing-feed job by integrating Denode to read the marketing feed.,,Parity,,B,Q2,Q4,N,UCA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"TSEO Email Optimization // Provide ability for customers to build multiple carts based on item eligibility. For e.g. if a customer wants to have hot chicken delivered and pick up a bag of chips, they should be able to do that with one cart, one transaction.",,Parity,,B,Q2,Q2,Y,UCA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Inventory Availability & Authorization: Phase Ic
+2. Channel-based Assortment - Phase II // Provide ability for customers to get visibility into inventory in the future (up to a week) with advanced DS algorithms dictating Low Inventory",Customers are currently prevented from searching for items that are not eligible for items in that channel. Customers are also prevented from making a single payment for multiple channels based on item eligibility,Parity,"Increased customer satisfaction, increased conversions due to reduced time to build multiple carts",A,Q2,Q3,Y,Digital Catalog,,,,S,,,,,,,,,S,,S,,XL,S,,M,M,,,,,,S,,S,,?,,,L,,,?,,,,,,,,?,,,,,,,L,,,,,,,,,,,,,,,,,,
+Shopper Experience,Inventory Availability & Authorizations (includes FAR):Phase 2.0 - Future inventory availability signal // Ability for customers to get guaranteed inventory availability for ALL items (including perishables) which is not available through FaR systems currently,"Currently, customers do not get guaranteed inventory availability for orders made into the future. The introduction of true Perpetual Inventory will resolve this issue.",Parity,"Reduced OOS, Increased customer satisfaction, increased availability",B,Q3,Q4,N,Digital Catalog,,M,,,,,,,,,,,,,,,,S,,L,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,M,,,x,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Inventory Availability & Authorizations (includes FAR): Phase 2.1 // Prepare so that when we launch Reviews, customers will be able to make fair comparisons between Own Brands and their National Brand equivalents",,Parity,"Reduced OOS, Increased customer satisfaction, increased availability",B,Q3,Q3/Q4,N,Digital Catalog,,S,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Customer Reviews – Phase 0 - Own Brands Early Collection // Allow customers to provide and see 5 star ratings and reviews of center store items,"Because Own Brands are exclusive to our stores, they will not have syndicated reviews",MLP,Number of reviews collected,,,Q2,Y,Digital Catalog,,,s,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Customer Reviews – Phase 1 –  5 Star ratings and reviews across the Center Store // Allows customers to provide and see innovative reviews of fresh groceries,Help customers make good choices by providing community driven reviews,MLP,73% of catalog review ready,A,Q2,Q2-Q3,Y,Digital Catalog,,,xs,xs,,,,,,X,,,x,,x,,,M,,M,S,S,,,,,,,S,,,,,,,,,,,,,,x,,S,,,,L,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Customer Reviews – Phase 2 –  Innovative reviews for Fresh Flavorful Food // Allow customers to shop for party planning assortment (e.g., catering trays, specialty bakery) via our ecommerce applications",Traditional reviews don't work well for fresh groceries which can vary greatly across seasons and regions,Differentiation,100% of catalog review ready,,Q3,2022,N,Digital Catalog,,,xs,xs,,,,,,,,,x,,x,,,x,,L,L,S,,,,,,,S,,,,,,,,,,,,,,x,,,,,,L,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Made To Order Party planning assortment shopable for Pick Up // Allow customers to shop for made to order RTE meal to add to their DUG/WUG grocery run,,Differentiation,"In store 1P parity: + 1800 BPNs enabled (web + mobile) 
+(Current $200M/year in store sales)",A,Q2,Q2,Y,Digital Catalog,,,,xs,,,,,,X,,,L,XS,S,S,L,M,,L,XS,,,X,X,X,,,M,X,M,,X,XS,S,L,XS,,,,,,X,,S,,,,L,X,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Pick up Made to Order RTE meals with groceries // Allow customers to shop for made to order assortment to add to their delivery grocery run,,Differentiation,"In store 1P parity: +300 BPNs enabled 
+(Current $40M/year in store sales)",A,Q2,Q2,N,Digital Catalog,,,,,,,,,,X,,,L,S,S,S,L,M,,S,M,,,X,X,X,,,M,X,M,,X,XS,S,X,XS,,,,,,X,,S,,,,L,X,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Delivery of Made to Order with groceries // Allow 3rd party marketplace users (GH, DD, UE, Postmates) to order RTE meals fulfilled by Albertsons stores. Multiple brands (including online only)",,Differentiation,In store 1P parity: 100% MTO BPNs enabled for delivery (3PL),A,"Q2,Q3",Q2/Q3,N,Digital Catalog,,,,,,,,,,X,,,L,S,S,S,XS,M,,S,S,,,X,X,X,,,XS,X,S,,,XS,S,X,XS,,,,,,X,,S,,,,L,X,xs,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Made to Order meals on multiple 3rd party marketplaces // Allow in-store or soon-to-be-in-store customers to pre order deli items to pick up later directly from the deli,,Differentiation,In store 3P parity: Top 80% RTE SKUs published on multiple 3rd party marketplaces @ 70% of stores (estimate: +$80M/year sales),A,"Q2,Q3",Q3,N,Digital Catalog,,,,,,,,,,,,,,,,,XL,,,L,XS,,,,,,,,XL,X,XL,,,,S,X,,,,,,,,,,,,,L,X,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Order Ahead, Pick Up at Deli // Ability to shop for a MTO lunch/dinner to be delivered 30-45 mins from now",,Differentiation,Top 90% full service deli SKUs enabled by FY 21. (Current in store sales: $1.1B/year),A,"Q3,Q4",Q4,N,Digital Catalog,,,,,,,,,,X,,,L,X,X,X,M,X,X,X,L,,,X,X,X,,,M,X,M,,,X,,X,X,,,,,,X,X,X,,,,L,X,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Express Meal Delivery // Marketing copy and feature bullets,,Differentiation,Top 95% RTE SKUs enabled by FY21,A,Q3,Q4,N,Digital Catalog,,,,,,,,,,,,,X,X,X,X,XL,L,X,L,M,,,,,,,,M,X,M,X,,L,,X,X,,,,,,X,X,X,,,,M,X,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Syndigo Salsify automation - Phase 2c (marketing copy and feature bullets) // Create content Rules for Content Management,,Parity,Phase 2c: Improved product content for Salsify serviced BPNs,,Q2,Q3,Yes,Digital Catalog,,,,,,,,,,,S,,S,,,,,X,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Syndigo/Salsify Automation Phase 3a - Create content Rules for Content Management // Enhanced Content Server side and Multiple Images (Salsify),content management for the site,Parity,Image and Content Management rule engine. It will save 3-5 hours per week for users that manually upload images and content to override data,,Q2,Q3,No,Digital Catalog,,,,,,,,,,,,,S,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Syndigo/Salsify Automation Phase 3b - Enhanced Content Server side and Multiple Images (Salsify) // Ingest Enhanced Content (Server side),Improved SEO crawlers ,Parity,Boost Web traffic and improved SEO crawlers,,Q3,Q3-Q4,No,Digital Catalog,,S,,,,,,,,,,,L,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Syndigo/Salsify Automation Phase 4 - Ingest Enhanced Content  for Syndigo(Server side) // Ingest and consumer additional Videos,Improved SEO crawlers ,Parity,Improved SEO crawlers ,,Q3,Q3-Q4,No,Digital Catalog,,S,,,,,,,,,,,L,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Syndigo/Salsify Automation Phase 5 - Ingest and consume videos // Integrate with Syndigo score card, Own brands to use enhance content tool",Include videos on the site,Parity,Improved content for 150k BPNs,,Q4,Q4,No,Digital Catalog,,M,,,,,,,,,L,,L,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Syndigo/Salsify Automation Phase 6 - Integrate with Syndigo score card, Own brands to use enhance content tool // authorization/authentication for Catalog UI",,Parity,Review content health,,Q4,Q4,No,Digital Catalog,,?? ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Self service authorization/authentication for Catalog UI // DAM enhancements,create user based rules to access Catalog UI tool,MLP,Reduce Catalog team's requests,,Q2,Q2-Q3,No,Digital Catalog,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SSO,,,,,,,,,,,,,,,,
+Shopper Experience,DAM - Phase 2 // Create a Power BI dashboard for Catalog's backend reporting ,"Phase is not defined yet but we are looking to add enhancements to include videos, De-commission BOX/IVIE's DAM, integrate with creative tools etc",MLP  ,,A,Q2-Q3,Q3-Q4,No,Digital Catalog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Catalog Reporting: UI Dashboard / Power BI / Validation / Status // Digital Bundles - Provide customers with an enhanced shopping experience by seeing similar items clubbed together. Items may have different price points, and different images, but seeing those items clubbed together will allow customers to make purchases together at the time of order entry. Key metric is customer engagement time is made more productive with greater conversions.","This will give user the ability to view/report on backend data that needs user attention example - SMIC that dont have a shelf code, number of blocks, CBA reporting etc",MLP,Improved operational efficiency - User will not have to go through 20+ reports each week and this acts like a central place,,Q3,,No,Digital Catalog,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Power BI team,,,,,,,,,,,,,,,,
+Shopper Experience,"Digital Bundles // Provide the ability to add several attributes to Item Catalog to comply with federal, state, and local regulations on when and which items may be sold with regards to geography and timing.","Customers today may not realize that while shopping for one item, they are forgetting to buy a related item. When our order workflow prompts the customer to consider items that go together, customers will appreciate the convenience of buying together. Potential basket size economies and discounting could be employed to make this initiative a win-win situation. ",Differentiator,"Increased customer satisfaction, increased conversions due to reduced time searching for items leading to greater conversions.",A,Q2,Q3,Y,Digital Catalog,,,,S,,,,,,,,,M,,M,,L,M,,M,M,M,,,,,M,M,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Item Restrictions // Provide the ability to group items that have a defined attribute with similar characteristics that make an item a variant. The concept of variant will group items with different flavors under one umbrella SKU. This prevents the customer from having to refer back and forth between different product pages since swatch images will show the variations of a product in one place.,Customers get frustrated today seeing an item they would like to purchase only to find out during checkout that we prevent them from completing that transaction due to local laws (e.g. it is prohibited to sell alcohol in Texas on Sunday before noon).,Parity,"Indemnification against lawsuits for non-compliance against laws, reduced risk to lose liquor license; increased customer satisfaction since they are informed upfront what may or may not be added to cart",A,Q2,Q2,Y,Digital Catalog,,,,S,,,,,,X,,,,,,,XL,S,,S,S,S,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,SKU Relationships (e.g. Variants) // Develop technology to review expiry dates on items to take it out of stock when they are no longer eligible to be sold,Customers find it time consuming to shop for different types of items that are very closely related (e.g. different flavors of icecreams) since these items are all displayed in different pages.,Differentiator,Average basket size increase. Increased customer engagement with reduced time to build carts,A,Q2,Q2- Q3,Y,Digital Catalog,,,,S,,,,,,,,,,,,,M,M,M,M,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Perishable Items // Replicate Portland DS algorithms for instore items to apply logic so that OOS metrics are improved thereby providing a better shopping experience for our customers.,,Differentiator,"Risk of selling expired items reduced, increased customer satisfaction, more accurate availability leading to better forecasting and decreased OOS.",B,Q2,Q2,Y,Digital Catalog,,,,xs,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Replicate Portland test // Since FaR systems cannot provide inventory levels when they are running low, it is necessary to develop DS algorithms to predict low inventory levels at the item-store levels. These algorithms will take into account item inventory, forecast, picking, consumption, fulfillment to outline low inventory levels that will then be displayed to the customer. Iterating upon this logic will also provide customers the ability to reserve items in the future with a greater degree of accuracy.",,Parity,Decreased OOS,A,Q2,Q2,Y,Digital Catalog,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,
+Shopper Experience,Dynamic Threshold Management // Develop DS algorithms to accurately predict when seasonal items wil come in stock and when they will go out of stock,,Parity,"Decreased OOS, increased availabilty, increased customer satisfaction",A,Q2,Q3,N,Digital Catalog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Seasonal Items // Phase 1.0 MLP: Chinese grocery selection for delivery to Bay Area customers,,Parity,"Decreased OOS, increased availabilty, increased customer satisfaction",A,Q3,Q2 2022,Y,Digital Catalog,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Marketplace 1.0 // Phase 1.1 Expanded Asian Selection & Marketplace Platform Integration,,MLP,Grow unique selection by 50K SKUs within 1Y of launch,A,Q2,Q3,N,Digital Catalog,,,,,,,,,,,L,,X,,X,X,XL,X,TBD,XL,X,,,,,,TBD,,L,X,,,,M,,,,,,,,,X,,X,,,,,,L,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Marketplace 1.1 // Catalog UI tool Enancement ,,Parity / Differentiation,,A,Q2,Q4,N,Digital Catalog,,L,,,,,,,,,L,,X,,X,X,XL,X,TBD,X,X,,,,X,,TBD,,L,X,,,,X,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Catalog Enhancements //  Create a customer-centric, digitally integrated, innovative and convenient experience for our customers.",Add enhanced features to the tool to improve operation efficiency,,Improve operational effciency and save time by 2-4 hours per week,,Q2-Q4,Iterative & Ongoing,,Digital Catalog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Tax - ability to include tax as a child item. // Steam Catalog data to EDM from each Catalog POD, enabling EDM to be a single source of Catalog runtime data for internal and external partners.",,Parity,Comply with local laws,A,Q2,Q3-Q4,N,Digital Catalog,,,,,,,,,,,,,,,,,M,Y,M,Y,Y,Y,Y,,,,XS,Y,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Intelligent automated removal of ROG/Store blocks // With the help of smart block removal logic we will remove outdated ROG/Store blocks so that the customer is able to find online items that are sold in store,"With the help of automated, intelligent logic we we will remove outdated ROG/Store blocks so that the customers will be better able to find online items that are sold in store",Parity ,Increase availability by 40 bps,A,Q2,Q2,N,Digital Catalog,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,
+Shopper Experience,Catalog Data streaming to EDM // Support for Landscape mode,,Parity,Make catalog data available in near real time and Eliminate daily data feeds from Catalog runtime as it  not a core catalog function. ,,Q2,Q2,Y,Digital Catalog,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,,,XS,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // UMA Analytics: Item Availability,ADA Accessbility requirement for WCAG 2.1 AA compliance,Parity,,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,,XS,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // UMA Analytics: Channel Based Assortment,Cleanup analytics tracking in app to match Web and track customer behavior through the purchase funnel,Parity,,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // UMA Analytics: Related Products,Cleanup analytics tracking in app to match Web and track customer behavior through the purchase funnel,Parity,,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // UMA Analytics: WYSIWYG,Cleanup analytics tracking in app to match Web and track customer behavior through the purchase funnel,Parity,,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // UMA Analytics: PFM,Cleanup analytics tracking in app to match Web and track customer behavior through the purchase funnel,Parity,,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Dietary Chanels MLP P13n,Cleanup analytics tracking in app to match Web and track customer behavior through the purchase funnel,Parity,,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PZN // UI Only: CPG Monetization fed by API into  CPG specific CMS Parity Zone,"Gather explicit dietary preferences and show customers personalized content/channels based on their dietary selection, helping them shop faster with higher relevance.",Parity,Retention & Add to Cart/List From Home ,A,Q2,Q2,,Personalization,,,,,,,,,X,,X,,,,X,S,,L,,S,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,L,,,M,,,,,,,,,,,,,,,,,,
+Shopper Experience,CPG // Shopping method selection enhancements,Drive CPG monetization in UMA. Ned AEM Support,Parity,CPG monetization on UMA,A,Q2,Q2,Y,CPG,,,,,,,X,,,X,M,,X,,,,,S,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"UMA // Onboarding to opt into Push, Select their Store, capture Email/SMS in funnel",Customers do NOT know how to easily shop omni-channel.,Parity,BNCs & Reg Conversion,B,Q2,Q2,Y,UMA,,,,,,,,,,,,,,,,,,S,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // My Account Preferences app parity - Phase 1.5,Effectively capture critical information/opt-in from customers to drive marketing communication and unlock the ability to enter their Phone # at the POS,Parity,BNCs & Reg Conversion,B,Q2,Q2,Y,UMA,,,xs,xs,,,,,,,,,,,,,,S,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // iOS App Clips for Acquisition,"Get my account up to par with web experience and add ability to control communication preferences, enabling more effective marketing communication",Parity,BNCs & Reg Conversion,B,Q2,Q2,Y,UMA,,,,,,,,,,,,,,,,,,S,,,X,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // iOS App Widgets,Acquire customers throughout their In-store journey via App Clips,Parity,BNCs & Reg Conversion,B,Q2,Q2,N,UMA,,,xs,,,,,,,X,?,,X,,X,,,M,,X,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Enhancements on Deals page,Make UMA tools easiliy accessible via App Clips on their iOS home screen,Parity,BNCs & Reg Conversion,B,Q2,Q2,N,UMA,,,,,,,,,,,,,,,,,,M,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // My Items / Lists ,Continue to refine and enhance the Deals page to help Legacy Loyalty Customers continue their shopping behaviors of clipping coupons,Parity,Time to Shop & Basket Size,A,Q2,Q2,Y,UMA,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,S,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Check Out Redesign,"UMA MLP launched without My List capabilities, which has impacted our In-store customers not being able to check coupons/items off of their list.",Parity,Time to Shop & Basket Size,A,Q2,Q2,N,UMA,,,,,,,,,,X,?,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Cart Redesign,"Checkout enhancements to improve conversion and to build a platform to launch other intiatives like SNAP, Native Payments, etc.",Parity,Order Conversion,A,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,S,L,,,,X,,,,,S,,S,,,,,,X,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Update Order status CTA's to be customized per use case,"Cart enhancements to improve conversion and to build a platform to launch other intiatives like Substitutions, Recommendations, etc.",Parity,AOV & Order Conversion,B,Q2,Q2,,UMA,,,,,,,,,,,,,,,,,S,L,,,,X,,,,,S,,S,,,,,,X,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Marketplace Bay Area,Help customers ALWAYS know where their order is and easily take action based on the status.,Parity,ECOM CSAT & Reduce Callcenter Contacts,B,Q2,Q2,,UMA,,,s,xs,,,,,,,,,,,,,,S,,,,,,,,,,X,S,X,,,,,X,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Fulfillment accuracy enhancements to dynamic slotting,"Customers want to shop locally, in a single app",Parity,AOV & Order Conversion,,Q3,Q3,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Unified Search enhancemnts (omni-search),Customers expect to get what they ordered AND get it on time,Parity,Order frequency & CSAT,,Q3,Q3,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Meals & grocery in one checkout,"Customers want to search for products, deals, meals, services, etc. in a single search experience",Parity,AOV & Reduce Time to Shop,,Q3,Q3,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // CMS enhancements for evaluated content,Customers want to easily checkout with their meals & groceries in a single transaction,Parity,AOV & Order Conversion,,Q3,Q3,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"UMA // Omni, frequency based Buy It Again",Customers want to see refreshed content tailored to them and evaluated based on implicit & explicit data.,Parity,AOV & Reduce Time to Shop,,Q3,Q3,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // In-store Shopping List,Customers want to quickly repurchase their favorited items.,Parity,AOV & Reduce Time to Shop,,Q3,Q3,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"UMA // In the moment, in cart substitutions","Customers want to get in and out of our stores as quick as possible, without forgetting anything OR missing a deal.",Parity,MAUs & CSAT,,Q4,Q4,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Personalized discovery based on shopping preferences,Customers want to have influence on their substitutions.,Parity,AOV & Order Conversion,,Q4,Q4,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Meals & meal planning,Customers expect an app experience that tailored to them.,Differentiation,AOV & Reduce Time to Shop,,Q4,Q4,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // In-store mode,Customers want to do their meal planning and grocery shopping in a single experience.,Differentiation,AOV & Reduce Time to Shop,,Q4,Q4,,TBD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Voice & voice list,Customers want tools to help them get in and out of the store with as little friction as possible.,Differentiation,MAUs & CSAT,,Q4,Q4,,UMA,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // App clips,"Customers want to effortlessly add items, deals, etc. to their shopping list using their voice, while juggling other tasks. ",Differentiation,AOV & Reduce Time to Shop,,Q4,Q4,,UMA,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // App widgets,"Customers who don't know about our app want to learn about it, in the moment, when it's relevant ",Differentiation,"BNCs, MAUs & CSAT",,Q4,Q4,,UMA,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Integrated Search,Customers want quick access to tools they use frequently to shop with us. ,Differentiation,"BNCs, MAUs & CSAT",,Q4,Q4,,UMA,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,UMA // Reduce all OOS measures (predictive and fulfillment metrics) either through implementation of FaR and through rethinking the DS algorithmss. Also includes measures like replicating the Portland tests,Customers want to search for products and  dealsin a single search experience,Differentiation,AOV & Order Conversion& Clip rate,,Q2,Q2,,UMA,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Reduced OOS // Refine DS salgorithms to reduce OOS, increase selection and availability",,Parity,"Decreased OOS, increased availability",A,Q2,Q2,Y,Digital Catalog,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,
+Shopper Experience,Instacart // Integrating Cart data with Snowflake,,Parity,"Decreased OOS, increased availability",A,Q2,Q2,Y,Digital Catalog,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,
+Shopper Experience,Transactions // ML based Substitutions.-Phase2-New UX experienence,,,,B,Q3,Q3,,C&C,,XS,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Experience Fundamentals - Substitutions // nan,,MLP ,"In 2021, Reduce customer support refunds and complaints by 50%. 
+Decrease OOS cancellations by 25%. 
+Decrease substitutes when customer said DoNotSub by 50%.
+
+Edited",B,Q1,Q2,,C&C,,,S,,,M,S, ,,X,,,X,S, ,S, ,X, ,, , ,,,,,,,,,,,,,,,,,M,,,,,,need prioritisation,,,16,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Aisle L2 Redesign // nan,"Customer Problem Statement:
+Users are not able to find products easily, spending too much time navigating through the aisle and clicking too many times to find the product they are looking for. 
+We don't showcase products by different categories to make it easy & fast for users to find the product. 
+Products are not categorized by the way users shop, i.e users shop for coffee by type such as ground coffee, whole bean coffee, bottled coffee, etc.. vs users shop for soda by brand such as coca cola, pepsi, sprite, etc..
+We don't incorporate deals into shoppable carousels to make it easy for users to find products on deals. 
+We don't personalize the products on the aisles based on user's past purchase or past shopping behaviors. 
+On L3 page, users are forced to do too much scrolling because products are not integrated into shoppable carousels. 
+L1 page is not a shoppable page and it serves as an extra step for users to get to L2 page
+We don't have category pages, instead we are using categories as filters which is not optimal for our SEO and user experience
+
+Business Problem Statement:
+Merchandising team does not have the ability to promote products according to the way customers shop such as type, brand, etc. All L2's follow the same page template and the format of the components cannot be edited.",Parity,"Traffic (+4%), Increase Units (+1.5), AOS (+$5.02), Conversion (+4 bps)  = +$17.8M",A,,,,?,,X,,,,,,,,X,,X,,,X,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Search & Aisle - Left Hand Nav (Filters) // nan,"Customer Problem Statement:
+Customer is unable to drill down into aisles or search results, making it difficult for them to find what they are looking for.  
+
+Business Problem Statement:
+Attribution will not only help customers filter down their items, but also provides more backend data to assist our search results to become more accurate.  Left Hand Nav is universal across all product categories and not unique to the item
+",Parity,Conversion (+1.5% or 6bps) = $11M.  (Assuming search captures 60% of traffic),A,,,,?,,,,,,,,,,X,,X,,,X,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Search & Aisle - Visual Shelf Navigators // nan,"Customer Problem Statement:
+Currently, we don't have visual cues to help customers narrow down their browse/search results. Visual navigation based on customer decision tree data would help make the shopping experience easier for customers to find exactly what they want.
+
+Business Problem Statement:
+Visual navigation gives the merchandising team the capability to display our full customer offering in an easy, visual manner, including attributes, merch events, and deals",Parity,,C,,,,?,,,,,,,,,,X,,X,,,X,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PDP - Zoom Functionality // nan,"Customer Problem Statement:
+By adding zoom functionality to images, customers are able to see a more detailed view of the product and this will help drive their decision to add the item to cart. This will also bring us to parity with our competitors
+
+Business Problem Statement:
+PDPs are second biggest entry pages (13.5%) on the site but conversion rate is very low 0.5%
+Today, we show only one product image that is static in size and does not provide customers additional clarity on the product",Parity,,C,,,,?,,,,,,,,,,X,,X,,,X,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PDP - Enhanced Content // nan,"Customer Problem Statement:
+By showing rich/enhanced content below the fold, customers can get a more well-rounded view of the product, and this will help drive their decision to add the item to cart. This will also bring us to parity with our competitors
+
+Business Problem Statement:
+PDPs are second biggest entry pages (13.5%) on the site but conversion rate is very low 0.5%
+Today, we show only one product image that does not provide customers any additional detail than a product card. This is also an opportunity for the Shopper Marketing team to generate additional CPG revenue",Parity,Conversion (+1% or 4 bps) = $3.4M,C,,Q1,,?,,,,,,,,,,X,,X,,,X,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PDP - Recipes // nan,"Customer Problem Statement:
+By adding a recipe carousel to the PDP, this inspires customers inspiration for various recipe ideas. Shopping on the PDP is not just transactional, but incorporates additional content for that ingredient
+
+Business Problem Statement:
+PDPs are second biggest entry pages (13.5%) on the site but conversion rate is very low 0.5%
+This will give more visibility into the recipes experience, an opportunity to cross-sell and up-sell, and be a point of differentiation from competition",Differentiation,"Increase Units (+1), AOS (+$3.52), Conversion (+1% or 4 bps)  = +$15.6M (impacts Fresh Categories)",A,,,,?,,,,,,,,,,X,,X,XS,,X,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PDP - Type 3 Pricing // nan,"Customer Problem Statement:
+Customer currently is only able to shop items in full lb quantities and not able to customize how much they can get
+
+Business Problem Statement:
+By allowing customization, ATC rates will increase as well as basket size (AOV); additional options for the customers to market fresh categories",Parity,"Increase Units (+1), AOS (+$3.52), Conversion (+1% or 4 bps)  = +$15.6M (impacts Fresh Categories)",B,,,,?,,,,,,,,,,X,,X,,,x,,x,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PDP - Cross Sell/Up Sell Carousels // nan,"Customer Problem Statement:
+Customer gets visibility into more affinity items that are relevant to the current item they are viewing. Customer is unable to find items they are looking for because they can only live under one aisle (ex: Frozen breakfast items live under the breakfast aisle but customer is searching in the frozen aisle). 
+
+Business Problem Statement:
+Exposes customers to additional items outside of immediate product type and increases basket size (AOV) and ATC rate. Merchandising team is unable to surface relevant products to the customer in multiple aisles across the site because items are limited to one aisle only. 
+",Parity,"Increase Units (+2), AOS (+$6.83 or +6.8%) = +$23.3M",A,,,,?,,,,,,,,,,X,,X,,,x,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,x,,,,,,,,,,,,,,,,
+Shopper Experience,"PDP - Item Badges // Home Page Redesign-MLP
+1. Multiple CTA on hero banner
+We are limited to one CTA and don't have flexibility to enable 1-3 CTAs within hero banner, depending on merch priorities.
+2. Homepage Notification Bar
+Gives us the ability to retain customers by clearly communicating shopper options upfront.
+3. Homepage rotating banner
+Have flexibility to enable 3-5 rotating banners within hero banner, to be able to feature more merch events.
+4. UMA design Parity
+5. Inspirational elements on page","Customer Problem Statement:
+Customer currently is not able to filter in these attribute buckets or has any visibility into status; gives customers a visual representation of unique statuses of items
+
+Business Problem Statement:
+Exposes customers to additional value propositions of certain items, increasing ATC rates and basket size (AOV)",Parity,Conversion (+.5% or 2 bps) = $1.7M,C,,,,?,,,,,,,,,,X,,X,M,,x,,x,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Home Page Redesign and Navigation redesign-MLP //  Delight our millennial customers by bringing in ‘friendly, exciting, inclusive, accessible’ into the copy and a new, modern design system that also enables faster development.","Customer problem Statement:
+- Current Homepage is dated and has an old/design and feel
+- Customers are uninspired by the limited information on the page and leave the site
+-Merchant team does not have the ability to add information on our values, advertize OWN products or educate customers on brand information
+-CPG revenue is limited since we have a few slots for CPG
+-Navigation is clunky and customer struggle to navigate through the site and find items they want to shop for",Parity,"Increased Customer engagement
+Reduce bounce Rate
+Increase CPG Revenue
+Increase Visbility to OWN Brands
+Multiple CTAa (Conversion (+9 bps or +2%) = +$12.7M (based on HP traffic))
+Notification Bar (Conversion (+11 bps or +2.5%) = +$15.9M (based on HP traffic))
+Rotating Banner (Conversion (+.5%) = $319K)
+Improve customer journey
+Increase Basket size/AOV
+Reduce cart abandonment/bounce rate",A,Q2,Q3-Q4,No,Landing & Nav,,XL,S,S,,X,X,, ,X,?, ,L,,S,X, , ,, ,S,,,,,,,,,,,,L,,,,,XS,,,S,"Merch Ops,3rd Party CPG",,,,19,,,,,M,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Elevating Our Design & Voice: // SLOC become main system for store setup (front-end admn UI) and ALL asociated store services api's.
+
+Currently: 
+- Erums sets up stores for ecommerce and flags for associated services. 
+- SLOC merges erums data with Yext (3rd party) store level data and provides many domain API's that power many internal systems including Web and APP","Customer Problem Statement
+-Current website is dull and uninspiring, design is dated and customers are disconnected ",Differentiation,1.To get more traffic and  easy navigation and increase the basket size.,A,Q2,Q4,No,Landing & Nav,,XL,X,X,,X,X, ,X,X,?, ,M,,X,X,X, ,, ,X,X,X,X,X,X,TBD,,,,,,,,,,,X,S,,XS,,,,,16,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"SLOC as replacement for erums Store Setup (EOT) Tool and erums Store Services  // Preview environment to view unpublished version of website and mobile app content Phase 1:
+
+- www-preview.banner.com (all banners including Mini Sites)
+- Ability to preview fully functional banners sites
+- Session Variable Framework support
+
+Support following workflows (workflow version-1):  
+-  Preview & Production Server
+- Publish to Preview
+- Publish to Preview & Production
+- Deactivate/Unpublish from Preview & Production Workflow","Background:
+SLOC is a pass-thru API service combining data inpuuted in Store Locator provider (YEXT) and  ERUM's ecommerce store setup too.  SLOC powers website, mobile app, and other systems that rely on store level data.  does not have a User-Interface to add/remove store level attributes. 
+
+Problem Statement:
+There has been a request to expire the Erums ecom store setup tool and associated API and move all functions to SLOC. In order to support this request, this requires SLOC to develop a User Interface to manage data (add, delete, change) as well as to clean-up data to fit SLOC model. 
+",Parity,Internal Request for to expire Erums Tool and migrate all functionaliyt to SLOC,"TBD
+
+Post discussion with Abhishek",Q2,Q3-4,No,Catalog/SLOC,,,x,x,,x,,,,x,,,S,x,x,,M,x,x,x,,x,,,,,,,,,x,,,,,,,,,x0 we are not currently calling any ERUMS services,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merchandising – CMS - Preview Env (Phase 1) // Provide Preview Tools/Configurations:
+
+- View by Current/Future Date: ability to select a date to view pre-scheduled content publication and view site as date selected
+
+- View by Session Variables: ability to easily select: banner, division, store ID, zip code authenticated state, and view content under selected variable
+
+- View by Target Audience: ability to easily select a target audience and view content as that segment","Digital Production team currently does not have a satisfactory method of reviewing authored web content prior to publishing to production. This includes both static and dynamic (API driven i.e. product carousels). 
+
+Focus: General and Dynamic Content ",Parity,"Authoring Must Have
+Goal - Production content errors at 0%.",A,Q2,Q2,"YES
+Requirements completed. ",Platform,"Digital Production
+
+Dev Ops",L,,,,,,,,X,M,,,,, ,,X, ,, ,, ,, , , ,, , ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merchandising – CMS - Preview Env (Phase 2) // Develop Mobile App digital production capabilities in AEM to provide Merchandising team the tools needed to create inspiring, personalized and seasonally relevant content in App (current and future UMA).
+MLP Components: mod unit, product carousels, notification alert, landin pages. ","Digital Production team currently does not have a satisfactory method of reviewing targetred authored web content prior to publishing to production. This includes both static and dynamic (API driven i.e. product carousels). 
+
+Focus: Targered Content ",Parity/Differentiation,"Authoring Must Have
+Goal - Production content errors at 0%.",B,Q2,Q3,"YES
+Requirements completed. ",Platform,,M,,,,,,,,X,M,,,,, ,,X, ,, ,, ,, , , ,, , ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merchandising – App content Management Tools (MLP Components) // Ability to target carousel by division, store, or zip.
+
+Expand session variables based targeting to components:
+- P-Banner (web) Decouple from Target
+","App team does not have method to update static content (ie. banners, product carousels, landing pages, etc) less an app release and/or the use of Adobe Target.  ",Parity/Differentiation,Must have for UMA,In Progress,Q1,Q1-Q2,Yes,Platform,"Digital Production
+
+Dev Ops",,,,,,,,,X,M, ,, ,S, , ,X,,,, ,, , , ,, , ,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merchandising (WEB)– CMS - Session variable targeting -  P-Banner  // Ability to target carousel by division, store, or zip.
+
+Expand session variables based targeting to remaining components:
+- Please Note component (web)
+","Currently, Promotional Banner can only be targeted to display content by division, store, zip via the use of Adobe Target.",Parity/Differentiation,"1. Increase engagement with enabled component (Notification Alert, Mod Unit, P- Banner) by 10%",C,Q2,Q2,"Yes
+",Platform,"Mobile App
+
+Digital Production",,,,,,,,,X,XS,,,,,S,,, , , , ,, ,, , , ,, , ,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merchandising (WEB) – CMS - Session variable targeting -  Check out 'Please Note' component // Ability to target carousel by division, store, or zip.
+ 
+Component: :
+- Product Carousels (web)
+","Targetred Special messaging required to support customers check out process can only be displayed via the use of Adobe Target. Examples include:
+- California Proposition 65 Warning
+- Pricing Policy
+- Lake Powell disclaimers",Parity/Differentiation,"Must Have 
+(remove dependency from Target to enable AEM functionality)",D,Q2,Q3,Intake,Platform,,,,,,,,,,X,L,XS,,,,,L,X, , , , ,, ,, , , ,, , ,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merchandising (WEB) – CMS - Session variable targeting -  Product Carousels // Enable AEM Content Services for App to target content via session variables. (banner, division, stores, zips) to MLP components. 
+- Mod Unit
+- Notication Alert
+- Landing Pages
+- Product Carousels (TBD)
+
+
+","Merchandising team can not differientiate the product assortment displayed in Product Carousels based on division, store, zip.  ",Parity/Differentiation,"TBD 
+
+Input from merch
+working to identify baseline",D,Q2,Q3,Intake,Platform,,M,S,S,,x,,,,X,M,,,,x,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Merchandising (APP) - AEM Content Services - MLP components Target by Session Variables // Mobile app Product Carousel can display products using Adobe Product Recommendation API. Content services. ,"Mobile App Content Services MLP does not support targeting content by banner, division, store, zip which means a banner unit will display the same for all banners. This is a must have (min. banner level / parity with web = session variables)",MLP / Parity,increase content engagement by 20% via targeted messaging.,A,Q2,Q2,Yes,Platform,,,,,,,,,,X,M,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"App - AEM Product Carousels - Enable Recs (API) // Enable Mod Unit banner (web) to display CPG sponsored banners (remaining use cases):
+- aisles
+- search
+- just for u (main landing)","Mobile App must relay on Adobe Target to display Products provided by Adobe Recommendation engine. With new AEM content services and enabling product recs, this would bring parity to app carousel featrure set. ",Parity,"At parity with Web features
+Follow up with Analytics",C,Q3,Q3,No,Personalization,,M,,,,,,,,X,S,,,,X,X,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Marketing,"Sponsored Ads Banner to API - remove injection approach (remaining web use cases) // - product led approach
+- Communiate ecom product offers are associated with Stores weekly ad.
+- Create 'weekly ad' ecom section like 'Club Card' deals
+- aisle filters to view 'Weekly Ad' offers",Move to Marketing/CPG?,Parity,"Improve pg performance for associated pages.
+",B,Q1,Q2,"Yes
+Requirements completed. ",Landing & Nav,,,,,,,,,,X,,,M,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,,M,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Shop-able Weekly Ad via ecom browse (MLP) (Web & App) // Need to identify path/replacement for current weekly ad host Quotient.
+
+Option 1: ABS fully hosted (major process mgmt. change and production suppot team required)
+Option 2: switch to vendor i.e. Flipp",Digital customers browsing our ecommerce experience (Product Led)  are NOT exposed to advertised offers that our divisions select to be showcased in the Weekly Circular and thus are unable to easily identify and use features that provide efficiency to browse and add products to shopping cart. ,MLP,10% of existing ecom customers basket increase by average of $5-7 via addition of Weekly Ad product.,A,Q2,Q3,No,Platform,,L,,,,,,, ,X,XS, ,M, ,X,,X,S,,M,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+
+L",,M,,,Digital Pricing,,,,,,,,,,,,,,,,
+Shopper Experience,Weekly Ad (Redesign/Quotient Replacement) // Automate Weekly Ad process to save time and improve sales productivity of landing pages carousels,"Current digital circular experience (offer Led) falls short in several key value-add features including:
+
+- ecommerce integration 'ability to add items to cart'
+- omni-channel distribution of circular offers with ability to add to cart",differentiator,10%  conversion non-ecom/weekly ad users to ecom customers.,A,"Q2
+
+(RFP)",Q3-Q4,"No
+
+Informed from Martech (Angel S.) they are in RFP process for Weekly Ad vendor. Sync up with Product required. ",Platform,,XL,,,,,,,,X,S ,,X,,X,,X,X,,X,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Automate Process for building Weekly Ad Product Carousels // Create component to display user's gift card balance using CashStar API,Need to improve sales productivity ,Differentiator,"Expected Outcomes (per Merch)
+
+- Expect to save 1 -2 work days (4 – 20 hours) of effort across all analysts and category managers (includes expanded roll out of automated weekly ads)
+
+ 2. Enable scaling weekly ads carousel across all banners and regions of Albertsons company.
+
+3. Increase cart additions to 7 – 9% from weekly ads",B,Q2,Q2-Q3,Intake Required,Platform,"Catalog & EDM API
+
+Search & Browse via Pathways",XL,,,,,,,,X,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Gift Card landing page Card Balance API // Design systems tool kit integration with single page applications. (my account, orders, cart & checkout)",Customers of Albertsons Gift Cards must phone support line to obtain their available balance. ,Parity,"Over 5M gift cards sold in each year 
+
+- offers potential incremental site traffic due to Gift Card balance check-in",C,Q2,Q2,Intake Required,Platform,,,,,,,,,,X,XS,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Design System (theme builder) - Integration (phase 3) // nan,Every site page / application today has custom code that defines styles. A centralized theme builder is required to unify look and feed across the whole site and to make it easy to roll out site wide look and feel changes.,Parity,Faster and consistent develpopment of front -end interfaces and reduces the pain of using multiple systems.,B,Q2,Q2,Yes,Platform,,,,,,,,,,X,XS,,x,S,,,M,,,,,S,,,,,,,,,,,,,,,XS,X,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Disaster Recovery (multi-region)  // Ability to continously validate various scenarios using by integrating mock data into specifc xAPI services  matching to the needed scenarios for Quality Assurance/Regression testing without impacting or reliance on Production data. ,Regulatory compliance standard for IT to ensure systems are in place as backup/recovery of data.,Parity,Compliancy Requirement ,A,Q2,Q3,No,Platform,,,,,,,,,,X,S,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Mocking Framework (xAPI) // Provide clear communication of quantity for weighted products, so the customer receives their selection in a manner that matches their expectation.","Having the right data set availablle across different environments is a huge challenge today. This results in teams not being able to test features, failures in automation test runs and overall project delays. Being able to mock test data and having an automated recording and playback capability will help augment our testing and automation capabilities.",Differentiator,"Improved qualify of regression testing
+
+Improved efficiency",A,Q1,Q2,Yes,Platform,,,,,,,,,,X,M,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Pricing: Lb. vs. Each - phase 2 // -- ML-based Buy It Again experience to smart rank & display past purchases based on customer's changing preferences, shopping patterns, rate of consumption and seasonality
+
+-- ML-based ""Smart Basket"" - Customer's next basket based on their historic buying patterns for easier & faster basket building
+
+-- ""Don't Forget"" list at cart & checkout based on customer's past purchases & basket items to recommend cart additions 
+
+-- Organize & display customer's past purchases by category group",75% of customer orders have weighted items in their orders. Customer complaints indicate that they have received 2 beans instead of 2 lbs. of beans and other similar issues. This project aims to address these issues.,Parity ,"Reduced Customer Calls, Improved NPS, Improved Picking",A,Q1,Q3,No,Target,,,xs,xs,, , ,, ,X, , ,M, ,X,X,X,X,,X,X,,,,,,,,,,X,,,,,,,,,,,,tbd,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Buy It Again Phase 2 // -- Add/Save products and recipes to a list of favorites to enable quick access for easy & fast basket building
+
+-- Personalize customer shopping experience by integrating user's favorites in search & browse
+","
+-- Customers past purchases are NOT ranked/displayed intelligently using ML
+
+-- Customers Buy It Again experience is NOT dynamic based on their changing needs/preferences, shopping patterns, rate of consumption & seasonality
+
+",Parity/Differentiator,"--Time to repurchase reduced by 5% in 2021
+
+--Increase the % of cart from ""Buy It Again"" by 5% in 2021
+
+--Increase AOV by 2% in 2021 for customers who use Buy It Again and ""Don't Forget"" list",A,Q1,Q2,Yes,Search & Browse,,,,,,,,,,X,S,,,,M,S,X,M,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,S,,AAIS,,,,,,,,,,,,,,,,
+Shopper Experience,"Favorites // 
+-- Allow customers to create personalized lists for future access to build their baskets easy and fast
+
+-- ""Contextual Search"" - Quickly searching and adding products
+
+
+--Personalize customer shopping experience by integrating curated lists in search & browse","-- Customers don't have ability to save/favorite products so that they can quickly add items from Favorites list for fast and easy basket building
+
+-- Customers can't save their favorite recipes for easy access 
+
+-- Customers shopping experiences are not personalized – Their favorited items and recipes are not integrated in their shopping journeys; i.e., search, browse, HP
+",Parity ,"-- Time to purchase reduced by 5% in 2021
+
+-- Increase the % of cart from ""My Items/Favorites"" by 5% in 2021",B,Q4,Q4,No,Personalization,,,,,,,,,,X,M,,,,X,S,X,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Multi Lists // 
+-- Ability to create a list verbally with voice interactive experience, creating a personalized interactive experience for our Customers for easy & convenient shopping","
+
+-- Customers don't have ability to create personalized lists for future access so that they can quickly add items from their lists for fast and easy basket building
+
+-- Customers can't save their cart items or orders to a list for easy access ",Parity,"-- Time to purchase reduced by 5% in 2021
+
+-- Increase the % of cart from ""My Items/Favorites"" by 5% in 2021",A,Q2,Q2,N,Personalization,,,,,,,,,,X,M,,,,L,S,L,X,,,X,,,,,,,,,,,,,,,,,,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Voice List // 
+-- Ability to collaborate and share lists with friends and family  
+-- Ability to send lists via email, SMS, etc..",-- Customers don't have ability to create personalized lists verbally for convenient & easy shopping experience,Differentiator ,"-- Time to purchase reduced by 5% in 2021
+-- Increase the % of cart from ""My Items/Favorites"" by 5% in 2021",C,Q4,Fy22,N,Personalization,,,,,,,,,,X,M,,,,X,,X,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Sharing Lists // 
+-- Create Personalized Experiences in the form of Product Recommendations, Messaging and Journeys for all inferred and self-declared Dietary Preference Channels across the app
+	
+-- Inspirational Experiences based on past purchases, dietary preferences & restrictions, likes/dislikes, customer viewing data, search history, rating products to predict what should be recommended to customers
+
+-- Integrated personalized recommendations from product discovery to checkout, i.e. Home Page, Category Pages, Product Page, Search, Cart & Checkout 
+-- Sophisticated Search capability to surface the right products for our customers based on their dietary preferences, restrictions, likes and dislikes 
+--Real time feedback loop for data enrichment - Allow users to rate their personalized recommendations (thumbs down/up, like/dislike) to fine tune our algorithm & make better suggestions ","
+-- Customers can't collaborate on personalized lists with friends and family
+
+-- Customers can't send their lists to friends and family via email or SMS",Parity,"-- Time to purchase reduced by 5% in 2021
+-- Increase the % of cart from ""My Items/Favorites"" by 5% in 2021",C,Q4,Fy22,N,Personalization,,,,,,,,,,X,M,,,,X,,X,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,Personalized Recommendations for Dietary Preferences // nan,,Parity/Differentiator,"-- Time to purchase reduced by 5% in 2021
+
+-- Increase AOV by 2% in 2021",A,Q2,Q2,Y,Personalization,"UI Platform, UCA, UMA, EOT (Target), Data Science, Analytics, Search & Browse, Catalog, Domain API",,,,,,,,L,X,M,,,S,S,S,,M,,S,M,M,,,,,,,,,,,,,,,,,,,,,,,,,,,L,,S,M,,,,,,,,,,,,,,,,,,
+Shopper Experience,,,,,,,,,,,,,,,,,,X,X,,X,,X,X,X,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,X,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Netflix of Grocery Shopping // Build next generation search platform that powers our new experiences across different and varied content types : product, recipes, coupons, marketplace items, restaurant search etc. Unified search engine will be key underlying platform to deliver food authority vision",,Parity/Differentiator,"-- Time to purchase reduced by 5% in 2021
+
+-- Increase AOV by 2% in 2021",A,Q2,Q3,N,Personalization,,,,,,,,,X,X,,X,,X,X,X,X,X,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,X,M,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Unified Search Engine // Brand Index first built with our faceted search links, but eventually will equate to LP's. Branded search volume for SEO is high and this would take advantage of that search volume. As well it will benefit paid search with better landing pages and ad sales in that they can offer ad rails for these brands and CPG's. ","Current user shopping experience on our site and app is not personalized. This initiative is to improve user experience by integrating user's past purchase data across the site as well as optimizing past purchases dedicated page
+",Parity,Search PLP - CTR lift +10% || Search Conversion : +5% || Relevancey Measure (NDCG) + 10 points,A,Q2,Q3,N,USE,,XL,x,,,,,,,L,,,,L,L,L, ,X,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,L,L,L,L,,,,,,,,,,,,,,,,,,
+Shopper Experience,"SEO - Brand Index // The faceted search pages are an underutilized set of page assets which SEO is trying get better indexed in Google. Due to the number of pages this encompases, being able to generate automated sitemaps to help indexation would ensure Google has picked up these pages.",Business Problem Statement - There is a lot of search volume the business is not capturing well with aisle pages or PDPs. A brand index linked from the navigation would create stronger brand search presence in Google which equates to high volume traffic we are not well indexed for. ,Parity ,- Increase search impressions on search pages by 30%. - Increase SEO visits on search pages by 12%,B,Q2,Q2,No ,Landing & Nav,,,,,,,,,,X,,X,M,,M,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Faceted Links Sitemap // Identify SEO features that may not have sufficient quality coverage as part of todays test suites.
+Introduce additional manual and automated tests to cover these scenarios.
+Research on third party tooling to cover specialized SEO scenarios.
+Introduce monitoring capabilities or cadence to review SEO metrics exposed on Google Search Console and other such dashboards. https://confluence.safeway.com/display/SCX/SEO+Automated+Testing","Business Problem Statement - Faceted search pages have just become crawlable as an SEO asset, having autmated sitemaps for these pages will ensure indexing, visits, and stronger search placement in search engines.",Parity ,- Increase impressions on faceted search pages by 15% - Increase visits to faceted search pages by 10%,B,Q2,Q2,No ,Landing & Nav,,,,,,,,,,X,,X,S,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"SEO Automated Tests // The sitewide header is a great source to drive SEO traffic towards Category and Seasonal pages. Today the header links are generated client side and thus do not drive mmuch SEO value. Changes are required so that headers and links on the header are drawn serverside to increase link visibility to SEO bots. Also multiple level of Aisle page links need to be hosted on the header, potentially through the use of flyouts.","We have several SEO capabilities that are built into our E-Commerce banner sites. These capabilities have a large business value as they allow Search Engines to crawl our sites, add site links into their Search Engine indexes and serve the links as part of Search Engine Result Pages (SERP). SEO site features thus become invaluable in terms of driving customers to our E-Commerce sites. 
+
+Given the business importance of the SEO features on the site it is paramount that we enhance testing practices and automation to regularly test and monitor these features.",Parity,"- Prevent losses, penalties, and catch issues before they cost us traffic due to search engines downscoring us. - As well, this should result in a 7% increase in total impressions and 3% increase in total traffic as a low end estimate. Note - This speaks to TOTAL impressions and traffic vs a specific page set.",A,Q2,Q2,No ,Landing & Nav,,,,,,,,,,X,,X,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,All Site Pages - Server side header and Header Updates // H1 header tags are currently controlled by AEM and require constant manual updates. - H1 tags that match the title and description metadata ensure stronger rankings for every page. - Lowering the pixel size to 1x1 ensures every page will have these without intruding on design and user experience. - Reduce user error. - Reduce manual labor.,Business Problem Statement - The sitewide header today is drawn on the client side thus not driving much SEO value. Changes need to be made so the header links are included serverside to increase their SEO value,Parity,Impressions were 11% and visits were projected at 6% (TOTAL) and not just specific page sets.,A,Q3,Q3,No ,Landing & Nav,,L,,,,,,,,X,S,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"All Site Pages - Metatag Updates - H tags, title, description // Although it’s not the most critical ranking factor, having correctly optimized product URLs is recommended for several reasons.
+
+It’s easier for search engines to understand
+It’s easier for users to understand
+It’s useful for readability purposes, especially in cases when you (or someone else) posts a URL of your products in a forum or a comment.
+For example:
+
+It’s easier to understand that this URL:
+
+https://www.safeway.com/shop/red-bull-energy-drink-12-84-fl-oz/product-details.108100166.html
+
+will lead to a product page about a Red Bull Energy drink than this:
+
+https://www.safeway.com/shop/product-details.108100166.html     https://confluence.safeway.com/display/SCX/SEO+Contextual+PDP+URL+Assembly","Business Problem Statement - AEM currently is where h1 tags are placed on pages. Currently, this is manual. As well, some h1 tags break design elements on pages. Not having h1 tags or having them listed as ""hidden"" as we currently do downscore and even draw cloaking penalties from Google.",Parity,Prevent penalization of our pages where the current hidden tag is a Google violation. - Ensure targeted H1 tags which will improve SEO ranking on every page.,A,Q2-Q3,Q3,No ,Landing & Nav,,M,,,,,,,,X,S,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,PDP Pages - Contextual PDP URL assembly // The majority of retail sites have html sitemaps. This is usually a page liked to in the sitewide footer that leads to a page that has hyperlinks of important pages such as Aisles. This mainly plugs SEO strength from the number of anchored links across the footer to the main pages such as aisle and the brand index we are building. ,"Product Detail pages have the highest counts among on all pages on our site. As such they hold a log of value from an SEO organic traffic driving potential. Our PDP page URL today follows the below format where the purpose / identity of the page is not very clear from the URL.
+
+PDP URL Format: https://www.safeway.com/shop/product-details.<BPN>.html",Parity,- Having url assembly that better matches the actual product will increase PDP impressions by 10-12% - This should also increase SEO clicks by 3%-7%,B,Q3,Q3,No ,Landing & Nav,,L,,,,,,,,X,M,,L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Sitewide Footer Link /HTML Sitemaps // The recipe pages offer a huge boon for SEO traffic as they are not SEO optimized need schema markups that dentote to Google that this is a recipe. Schema markups will help search when people are searching for recipes. In other words, the markup greatly increases the chance Google will index these pages higher. As well, FAQ on these pages and all LP's are another large SEO opportunity as Google favors question based search and pages that have FAQ on them.","We do not have an html sitemap and therefore are not casting SEO voting power or placing importance on main category / aisle pages. As well, this makes it harder for us to force bots into the site to crawl pages such as pharmacy. This is especially important because our existing navigation is Javascript and does not cast SEO voting strength into any of our category pages.",Parity,- Having real html links to our main pages will lift our impressions by 8% and our clicks by 4%.,A,Q3,Q3,No ,Landing & Nav,,M,,,,,,,,X,,,XS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,FAQ and Recipe Schema markups // Our aisle page taxonomy id issues have caused products to appear on aisle URLS that do not fit them properly. This is creating urls that don't match the products on the pages at all. ,The existing recipe pages have no SEO optimization or schema markups or FAQ. This greatly reduces their chances of ranking in Google or social media searches.,Parity,- Having schema markp and faq on these pages should raise impressions on the recipe pages by 2000% and should increase clicks by no less than 200% on recipe pages.,B,Q4,Q4,No ,Landing & Nav,,L,,,,,,,,X,S,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Search & Aisle Taxonomy updates // All suggestions made WoW by Merkle are chronicled here and are the items they feel are most heavily impacting SEO. As well, these items represent issues that need to be corrected or potential wins.","Customer Problem Statement:
+Browse customers are unable to find the products they are looking for within the current taxonomy hierarchy (aisles and shelves). 
+
+Business Problem Statement:
+Merchandising team is unable to strategically update aisles based on assortment, category expertise and CDT; Updating taxonomy also helps increase SEO value. ",Parity,- This is more about not losing credibility in Google with these types of poorly fitting links. - Correcting this would prevent us from losing 3% of our traffic on Aisle pages and would likely result in us gaining another 3%.,A,Q4,Q4,No ,Landing & Nav,,L,,,,,,,,X,S,X,S,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Merkle Vendor Reccomendations // Data from various sources (Syndigo, vestcome, Label Insights etc) will be collected and stored in a central repository (EDM)",https://jira.safeway.com/browse/SXP-2456,Parity,Merkle's suggestions should lift our overall impressions by 18% and overall traffic by 10%,A,Q2-Q4,Q2-Q4,No ,Landing & Nav,,M,,,,,,,,X,?,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,"Instore -Digital parity with health claims(Gluten free, organic) and other attributes // TBD",This feature will help create parity between Instore and Online health claims,Parity  ,Parity between Instore- Online health claims attributes,,Q3-Q4,Q4,N ,Digital Catalog,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Shopper Experience,HSA/FSA // nan,"FSA- and HSA-eligible products such as contact lenses, first aid supplies and sun care can be paid for in store or online with your FSA or HSA card.
+
+With the passing of the 2020 CARES Act, many new items and categories are now eligible without a prescription, including cough and cold, allergy and sinus and more. Contact your FSA administrator for more information.",Parity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,22 @@
+Pillar,Initiatives/Project,Customer/Business Problem Statement,MLP / Parity / Differentiation,KPIs/OKRs,"Priority 
+(A, B, C)","Incept/Build in Quarter
+(Q2/Q3/Q4)","Desired Launch
+ Quarter
+(Q2/Q3/Q4)","Inception Ready?
+(Y/N)",Driving Team,Dependent Team,Overall Initaitive Sizing (Q3/Q4),Martech,Communications,AdTech,CPG Media,Traffic Innovation (Project X),PZN,ShopCX- INTERNAL USE ONLY,ShopCX - UI Platform,ShopCX- Pharmacy,ShopCX- Land & Nav,ShopCX - Unified Search,ShopCX-Search&Browse,Exp & Opt (Target),Cart & Checkout,UMA,Tax,Catalog,UX.1,UCA,"
+DigitalLabs",EPE,Offer Management,Offer Redemption,Payments,Omnichannel,Digital Order Management System (DOMS),MFC,Acupick,Transportation Services,Pickup Experience,VPOS,Demand Planning,Store Mobility,OSS,Subscription,Rewards,Auto Replenishment,J4U_Clipping/Instant Allocation,Partnership Rewards,"Customer Self Service (Web/Mobile)- (IVR, Chat, social media)",CS Analytics,ECHO,CRM Salesforce,Functional FAQs,Data Engineering,CDP,Analytics,Data Science,Retail / POS,Unnamed: 64
+Shopper Experience,"Freeosk // An in-store kiosk that offers customers free samples of products that are aimed at accelerating product and category discovery, influence new behaviors/purchases, and increase JFU signups.",We know sampling drives incremental sales and we're looking for new opportunities to drive additional in-store revenue via CPG advertising. In addition with the start of the pandemic customers need a contactless sampling option.,Differentiation,"User engagement
+Incremental sales
+Re-usage rates
+JFU registrations",C,Q2-Q3,Q2-Q3,Y,Digital Labs,,XL,M,S,,x,,,,,,,,,,,,,,TBD,,X,,,,,,,,,,,,x,,x,,XS,,,,,,,,,L,,M,,x,
+Shopper Experience,"In-Store Mobile Congierge // Store of the Future: In-store scanning solution that will answer questions customers have while shopping; including how in season is the product, where it's sourced from, recipes, health information,  current promotions, and in store specialty ordering. ","I want a more intimate and personalized digital experience with my local store. Depending on experience I’m craving that day, I want to be able to find information or inspiration without having to talk to an associate or fumbling through multiple apps on my phone. I wish had a digital assistant to help me unlock the nuances of my store and its products.
+",Differentiation,"User engagement
+Incremental sales
+Re-usage rates
+Mobile app installs",A,TBD: Q4,TBD: Pilot Launch: Q2/3 2022,N,Digital Labs,,XL,,X,,x,,,,,,,,,,,X,,x,x,,X,,,,x,X,,,,,,,,,x,,XS,,XS,,x,,,,x,L,,M,,,
+Shopper Experience,"Transactions/Redesign Date/Time Selection (Pre-book, Checkout/Edit) // Redesign of Checkout/Edit:
+Redesign Date/Time Selection (Pre-book, Checkout/Edit)",Provide customers with more convenient and efficient date/time selection options for delivery/pickup ,Parity,a)Reduce time to checkout. b)Reduce drop rate on date/time by 2-3%,A,Q2,Q2,Y,C&C,,,xs,xs,,,,,X,,,S,,XS,,M,XS,,,M,,,,,,,,S,,,,,,S,,X,,,,,,X,,S,,XS,S,,S,,,
+Shopper Experience,Transactions/Optimize order edit // Optimize order edit (i.e. Multiple day window vs. same day for future order),We do not support order edit for multiple days window curomer can only edit the order on the day order is placed. By extending order edit by multiple days window customers will have more flexibility to add item to the cart or reschedule orders ,Parity,"*Increase incremental revenue by $10M/year 
+*Increase AOV by $2",B,Q3,Q3,N,C&C,,L,X,X,,,,,,,,S,,,,S,X,,,X,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,XS,,L,
+Shopper Experience,"Order Ahead, Pick Up at Deli // Ability to shop for a MTO lunch/dinner to be delivered 30-45 mins from now",,Differentiation,Top 90% full service deli SKUs enabled by FY 21. (Current in store sales: $1.1B/year),A,"Q3,Q4",Q4,N,Digital Catalog,,,,,,,,,X,,,L,X,X,X,M,X,X,X,L,,,X,X,X,,,M,X,M,,,X,,X,X,,,,,,X,X,X,,,L,X,S,,,
+Shopper Experience,Express Meal Delivery // Marketing copy and feature bullets,,Differentiation,Top 95% RTE SKUs enabled by FY21,A,Q3,Q4,N,Digital Catalog,,,,,,,,,,,,X,X,X,X,XL,L,X,L,M,,,,,,,,M,X,M,X,,L,,X,X,,,,,,X,X,X,,,M,X,S,,,
